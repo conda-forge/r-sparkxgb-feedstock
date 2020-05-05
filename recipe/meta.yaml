@@ -42,6 +42,7 @@ about:
   license: Apache-2.0
   summary: A 'sparklyr' <https://spark.rstudio.com/> extension that provides an  interface for 'XGBoost' <https://github.com/dmlc/xgboost> on 'Apache Spark'. 'XGBoost' is an  optimized distributed gradient boosting library.
   license_family: APACHE
+  license_file: LICENSE-2.0.txt
 
 extra:
   recipe-maintainers:
