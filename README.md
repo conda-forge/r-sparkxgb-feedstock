@@ -1,11 +1,11 @@
-About r-sparkxgb
-================
+About r-sparkxgb-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sparkxgb-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=sparkxgb
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sparkxgb-feedstock/blob/main/LICENSE.txt)
 
 Summary: A 'sparklyr' <https://spark.rstudio.com/> extension that provides an  interface for 'XGBoost' <https://github.com/dmlc/xgboost> on 'Apache Spark'. 'XGBoost' is an  optimized distributed gradient boosting library.
 
