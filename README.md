@@ -7,7 +7,9 @@ Home: https://CRAN.R-project.org/package=sparkxgb
 
 Package license: Apache-2.0
 
-Summary: A 'sparklyr' <https://spark.rstudio.com/> extension that provides an  interface for 'XGBoost' <https://github.com/dmlc/xgboost> on 'Apache Spark'. 'XGBoost' is an  optimized distributed gradient boosting library.
+Summary: A 'sparklyr' <https://spark.posit.co/> extension that provides an  interface for 'XGBoost' <https://github.com/dmlc/xgboost> on 'Apache Spark'. 'XGBoost' is an  optimized distributed gradient boosting library.
+
+Development: https://github.com/rstudio/sparkxgb
 
 Current build status
 ====================
