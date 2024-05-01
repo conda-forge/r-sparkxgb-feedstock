@@ -7,7 +7,9 @@ Home: https://CRAN.R-project.org/package=sparkxgb
 
 Package license: Apache-2.0
 
-Summary: A 'sparklyr' <https://spark.rstudio.com/> extension that provides an  interface for 'XGBoost' <https://github.com/dmlc/xgboost> on 'Apache Spark'. 'XGBoost' is an  optimized distributed gradient boosting library.
+Summary: A 'sparklyr' <https://spark.posit.co/> extension that provides an  interface for 'XGBoost' <https://github.com/dmlc/xgboost> on 'Apache Spark'. 'XGBoost' is an  optimized distributed gradient boosting library.
+
+Development: https://github.com/rstudio/sparkxgb
 
 Current build status
 ====================
@@ -95,7 +97,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
