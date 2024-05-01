@@ -1,4 +1,4 @@
-{% set version = "0.1.1" %}
+{% set version = "0.2.0" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,11 +10,11 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/sparkxgb_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/sparkxgb/sparkxgb_{{ version }}.tar.gz
-  sha256: 3230154b1208d166bfc6be27b578f3fc987375d5901a8f3f46d5f1b4cd99f2c0
+  sha256: 6b2c185fccd1b66b851badc0035eb6c79b056ffb321ba59671169d7ba310d265
 
 build:
   merge_build_host: true  # [win]
-  number: 2
+  number: 0
   noarch: generic
   rpaths:
     - lib/R/lib/
